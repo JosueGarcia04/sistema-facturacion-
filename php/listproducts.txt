@@ -1,0 +1,7 @@
+10u|Bebidas|refrescos en botella|$2.00|$20
+1lb|arroz|arroz corriente|0.70|0.70
+3|frijoles|mis amores|0.75|2.25
+1|pan blanco|bimbo |2.00|2.00
+3|legias|blanca|0.15|0.45
+<tr><td></td><td></td><td>Descripción del producto</td><td></td><td></td></tr>
+2|harina|mazeca|2.25|5
